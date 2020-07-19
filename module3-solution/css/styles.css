@@ -1,0 +1,33 @@
+body {
+  background-color: #ECF0F1;
+  color: #FBFCFC;
+}
+.container-fluid {
+  background-color: #2471A3;
+  border: 0;
+  border-radius: 0;
+  }
+  .navbar-default .navbar-brand{
+    color: #FBFCFC;
+    font-weight: bold;
+    font-size: 18px;
+
+  }
+  .navbar-nav{
+    background-color: #E74C3C;
+    text-align: center;
+    border: 1px black;
+  }
+  .navbar-default .navbar-nav>li>a{
+    color: #FBFCFC;
+     font-weight: bold;
+    font-size: 18px;
+  }
+  h1{
+    color: #C0392B;
+    font-weight: bold;
+  }
+  p{
+    line-height: 8em;
+    margin: 10px 10px 10px 10px;
+  }
